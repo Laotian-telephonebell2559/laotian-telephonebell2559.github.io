@@ -1,5 +1,5 @@
-wispy.github.io
-Home website of Women in Software and Python
+<sub>wispy.github.io ~ 
+Home website of Women in Software and Python</sub>
 
 # Join us in rebuilding the Python community and continuing the mission of empowering diverse women to excel in technology careers.
 
@@ -17,7 +17,9 @@ This group is dedicated to women in software development and programming in Pyth
 Join us for hands-on workshops, collaborative coding sessions, and networking opportunities with like-minded women in the tech community. 
 
 ## Upcoming Events
-[Luma] (https://luma.com/user/usr-6rgWnnHYHjPCnX0)
+https://luma.com/user/usr-6rgWnnHYHjPCnX0
+
+## Code of Conduct
 
 
 
