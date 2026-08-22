@@ -26,8 +26,8 @@ If you experience or notice harassment, discrimination, or any of the unacceptab
 
 We encourage you to report any incident of harassment, discrimination, or unacceptable behavior as soon as possible. Women in Software Computing & Python leadership will take all appropriate actions to mitigate risk factors moving forward and continue to provide a safe and secure environment for all Women in Software Computing & Python members. Women in Software Computing & Python leadership is happy to assist attendees in contacting venue security, local law enforcement, or otherwise aid those experiencing harassment so that they feel safe for the duration of the event. The Women in Software Computing leadership team will take great care to ensure that the assistance provided meets the needs of attendees who were affected.
 
-Periodic Review
+## Periodic Review
 Women in Software Computing & Python strives to create a positive and inclusive environment. As such, the Women in Software Computing & Python leadership team commits to an annual review of the Code of Conduct to ensure that it continues to align with this goal and address the needs of our community. Women in Software Computing & Python welcomes feedback from its members. All feedback should be submitted to HQ by filling out our Contact form.
 
-Acknowledgments
+## Acknowledgments
 We would like to thank you Women Who Code, Heroku, and AlterConf for their excellent codes of conducts, which we used as a guide for our own. We also extend thanks and gratitude to the legacy Women Who Code members, directors, advisors, and allies who helped create this code of conduct and continue to help us improve as an organization everyday.
