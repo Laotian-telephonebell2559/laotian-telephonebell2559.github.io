@@ -1,5 +1,5 @@
-<sub>wispy.github.io ~ 
-Home website of Women in Software and Python</sub>
+<sub>https://womeninsoftwarepython.github.io/home/ ~ 
+http://www.womeninsoftware.com/python</sub>
 
 # Join us in rebuilding the Python community and continuing the mission of empowering diverse women to excel in technology careers.
 
