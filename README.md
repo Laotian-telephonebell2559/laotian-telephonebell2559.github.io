@@ -20,7 +20,7 @@ Join us for hands-on workshops, collaborative coding sessions, and networking op
 https://luma.com/user/usr-6rgWnnHYHjPCnX0
 
 ## Code of Conduct
-
+[Code of Conduct guidelines for this project](Codeofconduct.md)
 
 
 (© 2024-2026 Women in Software Computing & Python)
