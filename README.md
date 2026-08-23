@@ -32,4 +32,5 @@ Join us for hands-on workshops, collaborative coding sessions, and networking op
 - [Discord](https://discord.gg/eXPJSSHdsg)
 
 © 2024-2026 Women in Software Computing & Python
+
 _Made with love by Eliza Sarobhasa_
