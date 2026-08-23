@@ -47,8 +47,7 @@ Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women 
 
 <sub>_Made with love by [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)_</sub>
 
-- <sub>https://womeninsoftwarepython.github.io/home/</sub>
-- <sub>http://www.womeninsoftware.com/python</sub>
-
-
+> [!NOTE]
+> - <sub>https://womeninsoftwarepython.github.io/</sub>
+> - <sub>https://www.womeninsoftware.com/python</sub>
 
