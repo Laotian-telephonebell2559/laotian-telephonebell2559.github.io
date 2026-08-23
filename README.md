@@ -22,6 +22,14 @@ Join us for hands-on workshops, collaborative coding sessions, and networking op
 ## Code of Conduct
 [Code of Conduct guidelines for this project](Codeofconduct.md)
 
+## Socials
+- [Github](https://www.github.com/womeninsoftware)
+- [Join Slack](https://join.slack.com/t/womeninsoftwarepython/shared_invite/zt-2mpfxsvlg-_~of~nXCJcMOfylYvqgv1A)
+- [Instagram](http://www.instagram.com/womeninsoftwarepython)
+- [Twitter](https://twitter.com/womensoftwarepy)
+- [Facebook Community Group](https://www.facebook.com/groups/womeninsoftwarepython)
+- [Linkedin Community Group](https://www.linkedin.com/groups/14431749/)
+- [Discord](https://discord.gg/eXPJSSHdsg)
 
-(© 2024-2026 Women in Software Computing & Python)
+© 2024-2026 Women in Software Computing & Python
 _Made with love by Eliza Sarobhasa_
