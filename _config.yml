@@ -1,6 +1,6 @@
-<!-- playing with themes ~ * ~ *
-theme: jekyll-theme-minimal 
-remote_theme: pages-themes/cayman@v0.2.0 -->
+<!-- playing with themes ~ * ~ * -->
+<!-- theme: jekyll-theme-minimal -->
+<!-- remote_theme: pages-themes/cayman@v0.2.0 -->
 
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
