@@ -37,6 +37,11 @@ We are currently coordinating with legacy volunteers on event ideas.
 
 [Join our newsletter](https://womeninsoftwarecomputingca.kit.com/abc1c2f56d) to keep in touch or up to date on events!
 
+## Team
+We are a team of legacy volunteers and leaders who were previously affiliated with the Technical Track of Women Who Code Python. Please join us in rebuilding community and continuing the mission of empowering diverse women to excel in technology careers.
+
+### Eliza Sarobhasa, Founder
+Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women Who Code Python Track
 
 ## Colophon
 <sub>© 2024-2026 Women in Software Computing & Python</sub>
