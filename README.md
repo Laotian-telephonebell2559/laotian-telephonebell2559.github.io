@@ -1,5 +1,4 @@
-<sub>https://womeninsoftwarepython.github.io/home/ ~ 
-http://www.womeninsoftware.com/python</sub>
+<sub>~ Legacy Women Who Code Python Track community</sub>
 
 # Join us in rebuilding the Python community and continuing the mission of empowering diverse women to excel in technology careers.
 
@@ -45,5 +44,7 @@ Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women 
 
 ## Colophon
 <sub>© 2024-2026 Women in Software Computing & Python</sub>
+<sub>https://womeninsoftwarepython.github.io/home/</sub>
+<sub>http://www.womeninsoftware.com/python</sub>
 <sub>_Made with love by [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)_</sub>
 
