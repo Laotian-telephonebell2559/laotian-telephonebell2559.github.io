@@ -44,7 +44,11 @@ Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women 
 
 ## Colophon
 <sub>© 2024-2026 Women in Software Computing & Python</sub>
-<sub>https://womeninsoftwarepython.github.io/home/</sub>
-<sub>http://www.womeninsoftware.com/python</sub>
+
 <sub>_Made with love by [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)_</sub>
+
+- <sub>https://womeninsoftwarepython.github.io/home/</sub>
+- <sub>http://www.womeninsoftware.com/python</sub>
+
+
 
