@@ -37,6 +37,8 @@ We are currently coordinating with legacy volunteers on event ideas.
 
 [Join our newsletter](https://womeninsoftwarecomputingca.kit.com/abc1c2f56d) to keep in touch or up to date on events!
 
+
+## Colophon
 © 2024-2026 Women in Software Computing & Python
 
 _Made with love by Eliza Sarobhasa_
