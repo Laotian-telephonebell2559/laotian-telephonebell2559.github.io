@@ -39,7 +39,6 @@ We are currently coordinating with legacy volunteers on event ideas.
 
 
 ## Colophon
-<sub>© 2024-2026 Women in Software Computing & Python
+<sub>© 2024-2026 Women in Software Computing & Python</sub>
+<sub>_Made with love by [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)_</sub>
 
-_Made with love by [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)_
-</sub>
