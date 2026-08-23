@@ -17,7 +17,7 @@ This group is dedicated to women in software development and programming in Pyth
 Join us for hands-on workshops, collaborative coding sessions, and networking opportunities with like-minded women in the tech community. 
 
 ## Upcoming Events
-https://luma.com/user/usr-6rgWnnHYHjPCnX0
+[Wispy Events page on Luma](https://luma.com/user/usr-6rgWnnHYHjPCnX0)
 
 ## Code of Conduct
 [Code of Conduct guidelines for this project](Codeofconduct.md)
